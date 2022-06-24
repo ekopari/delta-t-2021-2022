@@ -21,3 +21,10 @@ To modify displayed data:
 
     - for track.py - choose the data series to display at line 76 from already defined series or create your own DataSeries(graph_title, unit, list_of_data_column_names)
     - for histogram.py - define histogram binary file on line 7
+
+
+Results files:
+
+    - data.csv - flight measurements
+    - histograms.bin - flight histograms
+    - histograms2.bin - ground testing histograms
